@@ -1,0 +1,16 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{What is a Space Object?}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{What is a lightcurve?}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{Importance of Classifying SOs}{5}{0}{1}
+\beamer@subsectionintoc {1}{4}{Inverse Lightcurve Problem}{6}{0}{1}
+\beamer@subsectionintoc {1}{5}{K-Nearest Neighbor}{8}{0}{1}
+\beamer@sectionintoc {2}{CNNs for Lightcurve Classification}{9}{0}{2}
+\beamer@subsectionintoc {2}{1}{Why CNNs?}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{An overview of CNNs}{10}{0}{2}
+\beamer@subsectionintoc {2}{3}{Our Model}{11}{0}{2}
+\beamer@sectionintoc {3}{Training Set Generattion}{12}{0}{3}
+\beamer@subsectionintoc {3}{1}{...}{12}{0}{3}
+\beamer@sectionintoc {4}{Training our Model}{13}{0}{4}
+\beamer@subsectionintoc {4}{1}{...}{13}{0}{4}
+\beamer@sectionintoc {5}{Results}{14}{0}{5}
+\beamer@subsectionintoc {5}{1}{...}{14}{0}{5}
