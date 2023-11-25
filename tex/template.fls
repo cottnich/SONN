@@ -1343,6 +1343,9 @@ INPUT /usr/share/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-Regular-OT1-TLF
 INPUT ./template.toc
 INPUT template.toc
 INPUT template.toc
+INPUT /usr/share/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-Regular-OT1-TLF.tfm
+INPUT /usr/share/texmf-dist/fonts/vf/ascender/opensans/OpenSans-Regular-OT1-TLF.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-Regular-OT1-TLF--base.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/ascender/opensans/OpenSans-Regular-OT1-TLF.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/ascender/opensans/OpenSans-Regular-OT1-TLF--base.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmss8.tfm

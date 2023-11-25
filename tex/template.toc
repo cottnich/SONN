@@ -8,6 +8,7 @@
 \beamer@subsectionintoc {2}{1}{Why CNNs?}{9}{0}{2}
 \beamer@subsectionintoc {2}{2}{An overview of CNNs}{10}{0}{2}
 \beamer@subsectionintoc {2}{3}{Our Model}{11}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{1}{Binary Classification Model}{11}{0}{2}
 \beamer@sectionintoc {3}{Training Set Generattion}{12}{0}{3}
 \beamer@subsectionintoc {3}{1}{...}{12}{0}{3}
 \beamer@sectionintoc {4}{Training our Model}{13}{0}{4}
