@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.25)  25 NOV 2023 03:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.25)  25 NOV 2023 04:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -746,10 +746,7 @@ LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
 (Font)              scaled to size 4.0pt on input line 26.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/opensans/a_n3lhbv.enc}] (./template.toc
-LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 11.
-) [2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/opensans/a_n3lhbv.enc}] (./template.toc) [2
 
 ]
 LaTeX Font Info:    Trying to load font information for U+msa on input line 57.
@@ -781,7 +778,7 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <5> not available
  [3
 
 ]
-<../LightCurveExample.png, id=199, 416.2752pt x 312.2064pt>
+<../LightCurveExample.png, id=198, 416.2752pt x 312.2064pt>
 File: ../LightCurveExample.png Graphic file (type png)
 <use ../LightCurveExample.png>
 Package pdftex.def Info: ../LightCurveExample.png  used on input line 83.
@@ -830,18 +827,18 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: 7A89C4598B488E695FF1118DFF546033;2219.
  ) 
 Here is how much of TeX's memory you used:
- 22785 strings out of 477985
- 446063 string characters out of 5840058
+ 22778 strings out of 477985
+ 445929 string characters out of 5840058
  1864388 words of memory out of 5000000
- 42427 multiletter control sequences out of 15000+600000
- 537970 words of font info for 94 fonts, out of 8000000 for 9000
+ 42422 multiletter control sequences out of 15000+600000
+ 537377 words of font info for 92 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  128i,15n,122p,383b,600s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on template.pdf (14 pages, 118239 bytes).
+Output written on template.pdf (14 pages, 120675 bytes).
 PDF statistics:
- 554 PDF objects out of 1000 (max. 8388607)
- 495 compressed objects within 5 object streams
- 46 named destinations out of 1000 (max. 500000)
- 254 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 564 PDF objects out of 1000 (max. 8388607)
+ 499 compressed objects within 5 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 290 words of extra memory for PDF output out of 10000 (max. 10000000)
 

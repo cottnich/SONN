@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1700881937 "template.tex" "template.pdf" "template" 1700881938 0
+["pdflatex"] 1700887421 "template.tex" "template.pdf" "template" 1700887423 0
   "../LightCurveExample.png" 1700869958 29231 83d78c8225459ef8f77e2dd9aedc6668 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1689853683 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/enc/dvips/opensans/a_n3lhbv.enc" 1689853683 2876 59df564f2929ccd7d2b24aa7d14cad04 ""
@@ -217,11 +217,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1689853683 40684 9b9ec0b4288972636ff6a3b9c4238efc ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1692975035 4483110 adb1e1d04498b9576f1f17c4219c5e03 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1692974981 6768056 4c7d02ddc75be39737df150e9aa4e92f ""
-  "template.aux" 1700881938 7018 a0ee0575cdce176ed06205350890230b "pdflatex"
-  "template.nav" 1700881938 3895 12e0e26c4da3d5cf9a711333f8e0fa22 "pdflatex"
-  "template.out" 1700881938 2219 7a89c4598b488e695ff1118dff546033 "pdflatex"
-  "template.tex" 1700881934 6283 b35778dd6e2487ebd706871dbc5bef23 ""
-  "template.toc" 1700881938 984 6509bbaeef04f86dcba6e4be8fe244ad "pdflatex"
+  "template.aux" 1700887423 6818 b5593d7d7280679fa1500da57bbb558f "pdflatex"
+  "template.nav" 1700887423 3807 f948ef6203d89cbf3ee535ba0a693b76 "pdflatex"
+  "template.out" 1700887423 2219 7a89c4598b488e695ff1118dff546033 "pdflatex"
+  "template.tex" 1700887420 6403 d6775a67b1fe61df1b164e247cc00c65 ""
+  "template.toc" 1700887423 908 bbefa3fee8cc6f834c137963b5dc4c57 "pdflatex"
   (generated)
   "template.aux"
   "template.log"
